@@ -1,6 +1,9 @@
 const CONFIG = {
     introTitle: 'ủa hello',
-    introDesc: `đang street quá nè`,
+    introDesc: `đang street quá nè
+    làm gì cho hết street ik
+    bấm zô nút bên dưới
+    thì bạn đã giúp mình hết street gòi`,
     btnIntro: 'hihi',
     title: 'cuộc sống này khó khăn quá',
     desc: 'đánh nhau không ',
