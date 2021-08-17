@@ -13,7 +13,7 @@ const CONFIG = {
     btnReply: 'Gửi bạn iêu',
     reply: 'nminh ko cute nminh chỉ xinh thôi',
     mess: 'biếc gòi khổ lắm👉👈',
-    messDesc: 'nhưng b lại ko cute như mik',
+    messDesc: 'nhưng b lại ko xinh như mik',
     btnAccept: 'đúng z b cute nhất',
     messLink: 'https://www.facebook.com/profile.php?id=100012665413948' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
